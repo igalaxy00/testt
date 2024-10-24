@@ -71,7 +71,7 @@ array = [3, 6, 8, 10, 1, 2, 1]
 sorted_array = sorted(array)
 print(sorted_array)
 
-# Или можно использовать метод .sort() для списков
+ Или можно использовать метод .sort() для списков
 array.sort()
 print(array)
 def merge_sort(arr):
